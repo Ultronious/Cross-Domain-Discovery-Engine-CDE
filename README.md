@@ -289,4 +289,4 @@ MIT License
 
 ---
 
-> *Building AI systems that discover knowledge—not just retrieve it.*
+> *Building experimental AI systems that explore how knowledge can be connected, organized, and discovered across disciplines.*
